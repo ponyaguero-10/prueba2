@@ -11,9 +11,5 @@ else:
     print("❌ Número NO encontrado en la lista.")
 
     # Verificar si está en la lista
-if valor in numeros:
-    print("✅ Número encontrado en la lista.")
-else:
-    print("❌ Número NO encontrado en la lista.")
 
     
